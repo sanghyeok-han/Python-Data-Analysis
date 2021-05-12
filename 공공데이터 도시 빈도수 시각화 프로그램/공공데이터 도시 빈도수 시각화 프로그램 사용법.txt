@@ -1,0 +1,6 @@
+1. 파일 경로 입력시 \이 아닌 /로 구분하여 .csv까지 입력한다.
+
+   예: C:/Users/User/Desktop/자전거대여소현황(개방표준).csv
+
+
+2. 그래프 색깔 참고 사이트: https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html
